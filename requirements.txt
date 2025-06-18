@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+emoji
+wordcloud
+matplotlib
+plotly
+seaborn
+scikit-learn
+Sastrawi
+streamlit-option-menu
